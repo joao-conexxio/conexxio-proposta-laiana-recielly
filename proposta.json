@@ -1,0 +1,368 @@
+{
+  "slug": "laiana-recielly",
+  "negocio": {
+    "nome": "Laiana Recielly Estética",
+    "logo": "brand/logo.png",
+    "whatsapp": "5541995698387",
+    "telefone": "(41) 99569-8387",
+    "funcionamento": {
+      "seg": "09:00-20:00",
+      "ter": "09:00-20:00",
+      "qua": "09:00-20:00",
+      "qui": "09:00-20:00",
+      "sex": "09:00-20:00",
+      "sab": "09:00-15:00",
+      "dom": null
+    },
+    "unidades": [
+      {
+        "bairro": "Portão · Curitiba",
+        "endereco": "R. João Bettega, 101 – Portão, Curitiba – PR, 80610-270",
+        "telefone": "(41) 99569-8387",
+        "horario": "Segunda a sexta, 9h às 20h · sábado, 9h às 15h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#5B4842",
+    "brand2": "#463631",
+    "ink": "#2B2220",
+    "bg": "#FBF6F3",
+    "pulse": "#D3A39C",
+    "radius": "14px",
+    "registro": "editorial",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "Manrope",
+    "tomHero": "claro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Equipe",
+            "href": "#equipe"
+          },
+          {
+            "texto": "Dúvidas",
+            "href": "#faq"
+          },
+          {
+            "texto": "Onde fica",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "moldura",
+      "data": {
+        "eyebrow": "Estética facial e corporal · Portão, Curitiba",
+        "h1": "Pele bem cuidada, com hora marcada",
+        "lead": "Limpeza de pele, depilação a laser, toxina botulínica e harmonização facial com a equipe da Laiana, no Portão. Aberto até as 20h durante a semana e aos sábados de manhã.",
+        "cta": "Agendar pelo WhatsApp",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "imagem": "midia/porta.jpg",
+        "imagemAlt": "O monograma L da Laiana Recielly Estética, em marrom e branco, na porta de madeira da clínica",
+        "tarja": [
+          "4,8 no Google, 348 avaliações",
+          "Limpeza de pele citada em 62 delas",
+          "Seg a sex até 20h, sábado até 15h",
+          "Rua João Bettega, no Portão"
+        ]
+      }
+    },
+    {
+      "id": "fita",
+      "variant": "inclinada",
+      "data": {
+        "itens": [
+          "Limpeza de pele",
+          "Depilação a laser",
+          "Toxina botulínica",
+          "Harmonização facial",
+          "Luz intensa pulsada",
+          "Peeling",
+          "Estética corporal"
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "pagina",
+      "data": {
+        "eyebrow": "A clínica",
+        "texto": [
+          "Uma sala clara, poltronas brancas e água à espera na recepção. A Laiana montou a clínica para que um cuidado com a pele caiba numa terça depois do trabalho ou num sábado de manhã.",
+          "Cada procedimento tem quem cuide dele: a limpeza de pele, o laser, a harmonização. E quem volta encontra as mesmas pessoas, que já conhecem a sua pele."
+        ],
+        "imagem": "midia/recepcao-logo.jpg",
+        "imagemAlt": "Recepção da Laiana Recielly Estética, com o logo rosa na parede, poltronas brancas e piso de madeira"
+      }
+    },
+    {
+      "custom": "blocos/avaliacoes.html"
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Do cuidado de rotina ao procedimento injetável. A indicação de cada um sai da conversa com a profissional.",
+        "itens": [
+          {
+            "nome": "Limpeza de pele",
+            "descricao": "Remoção de cravos e impurezas, com atenção especial a peles com acne. É o procedimento mais procurado da casa.",
+            "icone": "pele"
+          },
+          {
+            "nome": "Depilação a laser",
+            "descricao": "Redução dos pelos em sessões espaçadas, para rosto e corpo. O número de sessões depende da região e do tipo de pelo.",
+            "icone": "laser"
+          },
+          {
+            "nome": "Toxina botulínica",
+            "descricao": "Suaviza as linhas de expressão da testa e ao redor dos olhos. Tem retorno marcado para conferir o resultado.",
+            "icone": "seringa"
+          },
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Preenchimento labial e contorno do rosto, aplicados pelo Derek Wesley.",
+            "icone": "rosto"
+          },
+          {
+            "nome": "Luz intensa pulsada",
+            "descricao": "Luz para manchas, vasinhos e uniformizar o tom da pele.",
+            "icone": "sol"
+          },
+          {
+            "nome": "Peeling",
+            "descricao": "Renovação da camada superficial da pele para textura, manchas e marcas de acne.",
+            "icone": "gota"
+          },
+          {
+            "nome": "Estética corporal",
+            "descricao": "Protocolos com aparelho para gordura localizada e medidas, com acompanhamento a cada sessão.",
+            "icone": "spa"
+          }
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "vivo",
+      "data": {
+        "titulo": "A clínica em números do Google",
+        "itens": [
+          {
+            "valor": "4,8",
+            "rotulo": "de nota no Google"
+          },
+          {
+            "valor": "348",
+            "rotulo": "avaliações de pacientes",
+            "contar": 348
+          },
+          {
+            "valor": "6",
+            "rotulo": "dias por semana de atendimento",
+            "contar": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "conversa",
+      "data": {
+        "eyebrow": "Retorno sem depender da memória",
+        "titulo": "A clínica lembra do seu retorno",
+        "lead": "Toxina tem data para ser refeita. Antes de o efeito passar, a recepção chama no WhatsApp e já oferece um horário.",
+        "cta": "Falar com a recepção",
+        "contato": "Laiana Recielly Estética",
+        "mensagens": [
+          {
+            "de": "clinica",
+            "texto": "Oi, Juliana! Aqui é da Laiana Recielly. Sua toxina foi aplicada em julho."
+          },
+          {
+            "de": "clinica",
+            "texto": "Nessa época o efeito costuma começar a diminuir. Quer que eu veja um horário para reaplicar?"
+          },
+          {
+            "de": "paciente",
+            "texto": "Ia esquecer totalmente! Quero sim. Sábado de manhã tem?"
+          },
+          {
+            "de": "clinica",
+            "texto": "Tenho sábado às 10h. Reservo no seu nome?"
+          },
+          {
+            "de": "paciente",
+            "texto": "Pode reservar, obrigada!"
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como é a primeira visita",
+        "lead": "Do primeiro contato ao retorno, sem você precisar ficar lembrando de nada.",
+        "itens": [
+          {
+            "titulo": "Chame no WhatsApp",
+            "texto": "Conte o que você quer tratar. A recepção explica o procedimento e encontra um horário, inclusive à noite e no sábado.",
+            "icone": "conversa"
+          },
+          {
+            "titulo": "Avaliação",
+            "texto": "A profissional olha a sua pele, ouve o que incomoda e diz o que faz sentido para você, e o que não faz.",
+            "icone": "rosto"
+          },
+          {
+            "titulo": "Procedimento",
+            "texto": "Feito na clínica, no Portão, com as orientações de cuidado para os dias seguintes.",
+            "icone": "check"
+          },
+          {
+            "titulo": "Retorno",
+            "texto": "Sessões seguintes, reaplicações e revisões ficam agendadas. A clínica avisa quando chegar a hora.",
+            "icone": "agenda"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "monograma",
+      "data": {
+        "titulo": "Quem atende",
+        "itens": [
+          {
+            "nome": "Laiana Recielly",
+            "especialidade": "Fundadora"
+          },
+          {
+            "nome": "Amanda",
+            "especialidade": "Limpeza de pele e cuidados com acne"
+          },
+          {
+            "nome": "Derek Wesley",
+            "especialidade": "Harmonização facial"
+          }
+        ]
+      }
+    },
+    {
+      "id": "depoimentos",
+      "variant": "citacoes",
+      "data": {
+        "titulo": "Nas palavras de quem já foi",
+        "itens": [
+          {
+            "texto": "Fiz limpeza de pele com a Dra Amanda, e ela é maravilhosa! Trabalho impecável, muito cuidadosa.",
+            "autor": "Paula S.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Confio demais, tenho feito meus últimos procedimentos sempre nessa clínica. As meninas são ótimas e a Lai maravilhosa!",
+            "autor": "Ryan A.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Clínica bem organizada, limpa e com profissionais bem atentos. Fiz uma limpeza de pele e fui muito bem atendida.",
+            "autor": "Sthephany A.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Muito bem atendidos pelo Derek e Amanda. Fiz limpeza de pele e gostei muito do resultado.",
+            "autor": "Renan T.",
+            "contexto": "Avaliação no Google"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "colunas",
+      "data": {
+        "titulo": "Dúvidas comuns",
+        "itens": [
+          {
+            "p": "Limpeza de pele dói?",
+            "r": "A extração dos cravos incomoda, principalmente em pele com muitos cravos profundos. A profissional ajusta o ritmo e você pode pedir pausa a qualquer momento."
+          },
+          {
+            "p": "Quanto tempo dura o efeito da toxina?",
+            "r": "Em média de 4 a 6 meses, variando de pessoa para pessoa. Cerca de 15 dias depois da aplicação há um retorno para conferir o resultado."
+          },
+          {
+            "p": "Quantas sessões de depilação a laser são necessárias?",
+            "r": "Depende da região, da cor do pelo e do tom da pele. Na avaliação você sai com uma estimativa para o seu caso."
+          },
+          {
+            "p": "Dá para ir depois do trabalho?",
+            "r": "Sim. De segunda a sexta a clínica atende até as 20h, e aos sábados das 9h às 15h."
+          },
+          {
+            "p": "Posso fazer a limpeza de pele com acne ativa?",
+            "r": "Em muitos casos, sim, e ela ajuda no controle. Quando a pele está muito inflamada, a profissional indica outro cuidado antes."
+          },
+          {
+            "p": "Como eu agendo?",
+            "r": "Pelo WhatsApp (41) 99569-8387. A recepção responde, tira dúvidas sobre o procedimento e reserva o horário."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "No Portão, na Rua João Bettega",
+        "imagem": "midia/recepcao-sala.jpg"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Marque o seu horário",
+        "lead": "Conte pelo WhatsApp o que você quer cuidar. A recepção responde e encontra um horário que caiba na sua semana.",
+        "cta": "Agendar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Equipe",
+            "href": "#equipe"
+          },
+          {
+            "texto": "Onde fica",
+            "href": "#unidades"
+          }
+        ],
+        "aviso": "Laiana Recielly Estética · Portão, Curitiba. Resultados variam de pessoa para pessoa; a indicação de cada procedimento é feita na avaliação."
+      }
+    }
+  ]
+}
